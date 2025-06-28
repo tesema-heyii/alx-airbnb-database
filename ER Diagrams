@@ -1,0 +1,14 @@
+# ER Diagrams: Core Components
+
+## Entities
+- **What**: Real-world objects/concepts (Student, Product)
+- **Think**: The "nouns" in your data
+- **Visual**: Rectangles in ER diagrams
+- **Example**: Student with attributes like name, ID
+
+## Relationships  
+- **What**: How entities connect to each other
+- **Think**: The "verbs" linking "nouns"
+- **Visual**: Diamonds in ER diagrams
+- **Example**: Student **enrolls in** Course
+- **Includes**: Cardinality (one-to-one, one-to-many, etc.)
